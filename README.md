@@ -1,7 +1,3 @@
-
-# Free for COVID
-A collection of tools and software provided for free for those contributing to alleviating the COVID-19 pandemic. Feel free to contribute to this list by making a pull request or reaching out to Helpful Engineering!
-
 ### Cloud Infrastructure
 [Airtable](https://blog.airtable.com/airtables-support-for-covid-19-response-efforts/).
   * Description: Hybrid with the features of a database applied to a spreadsheet.
