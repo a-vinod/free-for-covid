@@ -3,44 +3,43 @@
 A collection of tools and software provided for free for those contributing to alleviating the COVID-19 pandemic. Feel free to contribute to this list by making a pull request or reaching out to Helpful Engineering!
 
 ### Cloud Infrastructure
-* [Airtable](https://blog.airtable.com/airtables-support-for-covid-19-response-efforts/).
+[Airtable](https://blog.airtable.com/airtables-support-for-covid-19-response-efforts/).
   * Description: Hybrid with the features of a database applied to a spreadsheet.
   * Limit: None.
 
-* [Carto](https://carto.com/blog/carto-free-for-fight-against-coronavirus/).
+[Carto](https://carto.com/blog/carto-free-for-fight-against-coronavirus/).
   * Description: Cloud data management, analysis, and visualizations.
   * Limit: None.
 
-* [Cribl LogStream](https://cribl.io/blog/cribl-logstream-free-for-government-healthcare-covid-19-responders/).
+[Cribl LogStream](https://cribl.io/blog/cribl-logstream-free-for-government-healthcare-covid-19-responders/).
   * Description: Process machine data, logs, instrumentation data, application data, metrics, *et cetera* in real-time and deliver them to your analysis platform of choice.
   * Limit: 1 year.
 
-* [Datastax](https://www.datastax.com/keepcalm).
+[Datastax](https://www.datastax.com/keepcalm).
   * Description: Apache Cassandra consulting.
   * Limit: None.
 
-* [Dropbox](https://blog.dropbox.com/topics/company/how-dropbox-is-ensuring-business-continuity-through-unprecedente).
+[Dropbox](https://blog.dropbox.com/topics/company/how-dropbox-is-ensuring-business-continuity-through-unprecedente).
   * Description: Cloud content storage and collaboration with Dropbox Business and HelloSign Enterprise.
   * Limit: 3 months.
 
-* [Flying Circus](https://flyingcircus.io/blog/covid-19-digitalisierungs-notfallangebot/).
+[Flying Circus](https://flyingcircus.io/blog/covid-19-digitalisierungs-notfallangebot/).
   * Description: Hosting and Managed Services
   * Limit: 1.350€ per month rebate for up to 3 months
   * Note: Offer in German, requests in English are welcome.
-
-* [IBM Cloud](https://newsroom.ibm.com/COVID-19?item=31770).
+[IBM Cloud](https://newsroom.ibm.com/COVID-19?item=31770).
   * Description: Cloud-enabled AI, data, security, integration, video and more via the IBM public cloud.
   * Limit: 90 days.
 
-* [Rackspace](https://www.rackspace.com/lp/covid-19).
+[Rackspace](https://www.rackspace.com/lp/covid-19).
   * Description: Cloud hosting.
   * Limit: 6 months.
 
-* [Terraform Cloud](https://www.hashicorp.com/blog/hashicorp-assistance-during-covid-19/).
+[Terraform Cloud](https://www.hashicorp.com/blog/hashicorp-assistance-during-covid-19/).
   * Description: Infrastructure management.
   * Limit: Team & Governance Tier.
 
-* [Truevault](https://www.truevault.com/blog/truevault-safe-free-for-covid-19-projects).
+[Truevault](https://www.truevault.com/blog/truevault-safe-free-for-covid-19-projects).
   * Description: HIPAA-compliant database built for healthcare applications.
   * Limit: None.
 
