@@ -1,3 +1,5 @@
+Feel free to contribute to this list by making a pull request or reaching out to Helpful Engineering!
+
 ### Cloud Infrastructure
 [Airtable](https://blog.airtable.com/airtables-support-for-covid-19-response-efforts/).
   * Description: Hybrid with the features of a database applied to a spreadsheet.
