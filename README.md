@@ -27,6 +27,7 @@ A collection of tools and software provided for free for those contributing to a
   * Description: Hosting and Managed Services
   * Limit: 1.350€ per month rebate for up to 3 months
   * Note: Offer in German, requests in English are welcome.
+
 [IBM Cloud](https://newsroom.ibm.com/COVID-19?item=31770).
   * Description: Cloud-enabled AI, data, security, integration, video and more via the IBM public cloud.
   * Limit: 90 days.
