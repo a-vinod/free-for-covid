@@ -1,5 +1,3 @@
-Feel free to contribute to this list by making a pull request or reaching out to Helpful Engineering!
-
 ### Cloud Infrastructure
 [Airtable](https://blog.airtable.com/airtables-support-for-covid-19-response-efforts/).
   * Description: Hybrid with the features of a database applied to a spreadsheet.
@@ -198,3 +196,5 @@ Feel free to contribute to this list by making a pull request or reaching out to
 [Medallia](https://www.medallia.com/blog/helping-nonprofits-during-covid-19-with-free-crowdsourcing-tool/).
   * Description: Crowdsourcing tool.
   * Limit: 6 months.
+
+Feel free to contribute to this list by making a pull request or reaching out to Helpful Engineering!
